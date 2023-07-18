@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "gnspa.h"
+#include <string.h>
 
 int main() {
     // Sample packet data
